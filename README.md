@@ -2,7 +2,7 @@
 WowzaStreamingEngine 4.8.0 Crack
 Wowza Streaming Engine 4.8.0 Crack 
 Wowza Streaming Engine 4.7.8 Crack
-
+Video guide : https://www.youtube.com/watch?v=F8PtR9aOu5U
 WowzaStreamingEngine-4.7.8 Perpetual License Crack build 18935 working on both Windows and Linux Version !!!! 
 How to install Wowza Streaming Engine 4.7.8
 
