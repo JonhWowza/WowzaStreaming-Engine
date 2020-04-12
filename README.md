@@ -14,7 +14,7 @@ Do step by step as below:
 3/ Stop Wowza Stream Engine 
 6/ Start Wowza Stream Engine
 Download and install the Wowza 4.8.0 installer from wowza.com, for example in Linux: 
-cd /tmp wget https://www.wowza.com/downloads/WowzaStreamingEngine-4-8-0/WowzaStreamingEngine-4.7.8-linux-x64-installer.run 
+cd /tmp wget https://www.wowza.com/downloads/WowzaStreamingEngine-4-8-0/WowzaStreamingEngine-4.8.0-linux-x64-installer.run 
 chmod +x WowzaStreamingEngine-4.8.0-linux-x64-installer.run 
 ./WowzaStreamingEngine-4.8.0-linux-x64-installer.run
 
